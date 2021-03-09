@@ -1,0 +1,23 @@
+<i class="fas fa-hand-spock"></i>
+<i class="fas fa-hand-lizard"></i>
+
+<i class="icon-cog" style="color:black">
+
+Scissors cuts Paper
+Paper covers Rock
+Rock crushes Lizard
+Lizard poisons Spock
+Spock smashes Scissors
+Scissors decapitates Lizard
+Lizard eats Paper
+Paper disproves Spock
+Spock vaporizes Rock
+Rock crushes Scissors
+
+0 Rock
+1 Paper
+2 Scissors
+3 lizard
+4 spock
+
+
